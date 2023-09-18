@@ -8,8 +8,8 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170em src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=5px" />
-  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=andymarksss&show_icons=true&langs_count=8&theme=dark&border_radius=3px" />
+  <img hight=100% width=45% src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=5px" />
+  <img hight=100% width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=andymarksss&show_icons=true&langs_count=8&theme=dark&border_radius=3px&text_size=5px" />
 </a>
 
 ##
