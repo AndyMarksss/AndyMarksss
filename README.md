@@ -7,10 +7,10 @@
 
 ##
 
-<a>
-  <img hight=100% width=45% src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=5px" />
-  <img hight=100% width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=andymarksss&hide_progress=true&show_icons=true&langs_count=24&theme=dark&border_radius=3px&text_size=5px" />
-</a>
+<img hight=100% width=40% src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_radius=5px&hide_border=true&title_color=f2f2f2&text_color=7e7e7e&icon_color=90be9f&rank_icon=github&ring_color=316dbf&" /> 
+<img hight=100% width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=andymarksss&hide_progress=true&show_icons=true&langs_count=24&theme=transparent&text_size=5px&hide_border=true&title_color=f2f2f2&text_color=7e7e7e&icon_color=90be9f" /> 
+  
+
 
 ##
 
@@ -18,6 +18,7 @@
   <img align="center" alt="andy-html" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="andy-css" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="andy-js" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="andy-j" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 </div>
 
 ##
