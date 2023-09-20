@@ -7,8 +7,8 @@
 
 ##
 
-<img hight=100% width=40% src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_radius=5px&hide_border=true&title_color=f2f2f2&text_color=7e7e7e&icon_color=90be9f&rank_icon=github&ring_color=316dbf&" /> 
-<img hight=100% width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=andymarksss&hide_progress=true&show_icons=true&langs_count=24&theme=transparent&text_size=5px&hide_border=true&title_color=f2f2f2&text_color=7e7e7e&icon_color=90be9f" /> 
+<img hight=100% width=50% src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_radius=5px&hide_border=true&title_color=f2f2f2&text_color=7e7e7e&icon_color=90be9f&rank_icon=github&ring_color=316dbf&" /> 
+<img hight=600% width=35% src="https://github-readme-stats.vercel.app/api/top-langs?username=andymarksss&hide_progress=true&show_icons=true&langs_count=24&theme=transparent&text_size=5px&hide_border=true&title_color=f2f2f2&text_color=7e7e7e&icon_color=90be9f" /> 
   
 
 
