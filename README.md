@@ -1,9 +1,9 @@
 ### Olá, sou o Anderson Marques 🖖🏻
 
 - 🔭 Iniciante em Front-end
-- 🌱 Estudando Engenharia da Computação (10/10)
+- 🌱 Graduado em Engenharia da Computação
 - 😄 Atualmente trabalho em setor de TI
-- ⚡ Fun fact: amo animes e games
+- ⚡ Fun fact: animes e games
 
 ##
 
