@@ -1,7 +1,7 @@
 <!-- Banner ------------------------------------------------------------------>
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Anderson%20Marques&fontColor=FFFFFF&fontAlignY=30&desc=Front-End&nbsp;&nbsp;Back-End&nbsp;Learner%20|%20Computer%20Engineer&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Anderson%20Marques&fontColor=FFFFFF&fontAlignY=30&desc=Front-End%20|%20Back-End&nbsp;Learner%20|%20Computer%20Engineer&descAlignY=55&animation=fadeIn" />
 
 </div>
 
