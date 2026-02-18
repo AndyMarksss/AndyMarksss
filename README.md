@@ -20,14 +20,6 @@
 
 ---
 
-<!-- Stats & Langs ----------------------------------------------------------->
-<p align="center">
-  <img height="165em" src="./stats.svg" />
-  <img height="165em" src="./langs.svg" />
-</p>
-
----
-
 <!-- Tech stack ------------------------------------------------------------->
 <h3 align="center">🛠️&nbsp; Tecnologias &amp; Ferramentas</h3>
 
