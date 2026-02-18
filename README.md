@@ -22,8 +22,8 @@
 
 <!-- Stats & Langs ----------------------------------------------------------->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=andymarksss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=6" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andymarksss&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=6" />
+  <img height="165em" src="./stats.svg" />
+  <img height="165em" src="./langs.svg" />
 </p>
 
 ---
